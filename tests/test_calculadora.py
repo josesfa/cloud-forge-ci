@@ -5,7 +5,7 @@ from app.calculadora import interpretar_entero, sumar
 
 
 def test_suma():
-    assert sumar(2, 3) == 6
+    assert sumar(2, 3) == 5
 
 
 def test_entero():
